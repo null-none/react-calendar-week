@@ -1,0 +1,30 @@
+{
+    "name": "react-calendar-week",
+    "version": "0.0.1",
+    "description": "React compontent for calendar week",
+    "main": "src/Calendar/Week.jsx",
+    "author": "Kalinin Mitko <kalinin.mitko@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/null-none/react-calendar-week",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/null-none/react-calendar-week.git"
+    },
+    "bugs": {
+      "url": "https://github.com/null-none/react-calendar-week/issues"
+    },
+    "keywords": [
+      "react",
+      "react-component",
+      "calendar",
+      "week",
+      "calendar week"
+    ],
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-scripts": "5.0.1",
+      "web-vitals": "^2.1.4",
+      "lodash": "^4.17.21"
+    }
+  }
